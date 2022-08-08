@@ -7,7 +7,7 @@
 #*                       then using txinport and do the DEA with DESeq2
 pkgs <- c("tximport", "readr", "stringr", "DESeq2",
           "ggplot2", "RColorBrewer", "pheatmap", "coda.base",
-	  "venn", "gage", "pathview", "rjson")
+	  "venn", "gage", "pathview", "rjson", "universalmotif", "gplots")
 
 suppressMessages(lapply(pkgs, require, character.only = TRUE)) 
 #requires the DEG result matrix and the chart title
