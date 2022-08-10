@@ -1,5 +1,9 @@
 # Rhodosporidium cis-regulatory elements discovery 
-Companion material to the [](publication).
+Companion material to the [publication]().
+
+## Run on colab 
+
+Open notebook on [colab](http://colab.research.google.com/github/computational-chemical-biology/cis_reg/blob/master/cis_reg_paper.ipynb)
 
 ## Installation
 
