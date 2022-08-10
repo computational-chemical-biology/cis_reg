@@ -1,9 +1,10 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-chemical-biology/cis_reg/HEAD)
 # Rhodosporidium cis-regulatory elements discovery 
 Companion material to the [publication]().
 
 ## Run on colab 
 
-Open notebook on [colab](http://colab.research.google.com/github/computational-chemical-biology/cis_reg/blob/master/cis_reg_paper.ipynb)
+Open notebook on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/computational-chemical-biology/cis_reg/blob/master/cis_reg_paper.ipynb)
 
 ## Installation
 
