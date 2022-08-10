@@ -34,6 +34,7 @@ RUN conda config --add channels conda-forge
 RUN conda config --set channel_priority strict      
 #RUN conda install -c conda-forge r-base=4.1.3
 #RUN conda install -c pkgs/r r-base=4.2.0 --force
-RUN /home/cis_reg/.conda/envs/cis_reg/bin/Rscript install_packages.R
+#RUN /home/cis_reg/.conda/envs/cis_reg/bin/Rscript install_packages.R
+RUN Rscript install_packages.R
 #RUN conda install -c bioconda kallisto
 
