@@ -1,6 +1,10 @@
 FROM continuumio/anaconda3
 MAINTAINER Ricardo R. da Silva <ridasilva@usp.br>
 
+RUN  apt-get update
+RUN  apt-get -y install build-essential
+RUN  apt-get -y install kallisto
+
 # create user with a home directory
 ARG NB_USER=cis_reg
 ARG NB_UID=1000
