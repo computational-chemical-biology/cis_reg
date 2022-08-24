@@ -5,7 +5,7 @@ BiocManager::install(c("Rgraphviz", "png", "KEGGgraph", "org.Hs.eg.db",
                        "gage", "pathview", "DESeq2", "tximport", "universalmotif"))
 
 install.packages(c("readr", "stringr", "ggplot2", "pheatmap", "venn", 
-                   "IRkernel", "gplots", 'rjson'), repos='http://cran.us.r-project.org')
+                   "IRkernel", "gplots", 'rjson', 'hrbrthemes'), repos='http://cran.us.r-project.org')
 IRkernel::installspec()  # to register the kernel in the current R installation
 
 
