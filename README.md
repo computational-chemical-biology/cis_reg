@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-chemical-biology/cis_reg/HEAD)
 # Rhodosporidium cis-regulatory elements discovery 
 Companion material to the [publication]().
 
