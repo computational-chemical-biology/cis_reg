@@ -1,5 +1,5 @@
 # Rhodosporidium cis-regulatory elements discovery 
-Companion material to the [publication]().
+Companion material to the [publication](https://www.frontiersin.org/articles/10.3389/fmicb.2022.1069443).
 
 ## Run on colab 
 
